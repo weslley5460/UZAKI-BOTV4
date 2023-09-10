@@ -1,0 +1,21 @@
+💙PRIMEIRO COMANDO💙= termux-change-repo
+
+aperta ok duas vezes
+
+💙SEGUNDO COMANDO💙= termux-setup-storage
+
+permite
+
+💙TERCEIRO COMANDO💙= pkg upgrade -y
+
+💙QUARTO COMANDO💙= pkg update -y
+
+💙QUINTO COMANDO💙= pkg install git -y
+
+💙SESTO COMANDO💙= pkg install nodejs -y
+
+💙SETIMO COMANDO💙= pkg install nodejs-lts -y
+
+💙OITAVO💙= cd /sdcard/download/super-basev1
+
+💙NONO COMANDO💙= sh start.sh
